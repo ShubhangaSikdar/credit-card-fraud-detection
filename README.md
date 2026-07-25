@@ -36,7 +36,7 @@ Financial fraud is costing billions each year. The objective of this project is 
 
 ## 🛠️ Tech Stack
 • Language: Python 3.8+\
-• ML: scikit-learn, imbalanced-learn\
+• ML: scikit-learn, tensorflow, imbalanced-learn\
 • Data: pandas, NumPy\
 • Visualisation: matplotlib, seaborn\
 • Imbalance Handling: SMOTE (imblearn)
